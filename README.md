@@ -28,7 +28,7 @@ Welcome to the Movie Recommendation System! This project is designed to provide 
 
 This function is the core of the recommendation system, using cosine similarity to find and suggest movies similar to a given title.
 
-![Screenshot 2024-06-08 152309](https://github.com/Aayu-1011/Movie-Recommendation/assets/134579511/766952e5-bd42-41e1-b311-30a578ee9b3c)
+![Screenshot 2024-06-08 160417](https://github.com/Aayu-1011/Movie-Recommendation/assets/134579511/05140355-061c-4991-b56a-12d43482b053)
 
 ### Final Output
 
