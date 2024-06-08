@@ -32,3 +32,11 @@ Make sure you have Python installed on your system. You can download it from [py
 ```sh
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
+your-repository-name/
+│
+├── movie_recommendation.py  # Main script
+├── README.md                # Project documentation
+├── tmdb_5000_credits.csv    # Movie credits data
+├── tmdb_5000_movies.csv     # Movie metadata
+│
+└── requirements.txt         # List of dependencies
