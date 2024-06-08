@@ -12,31 +12,7 @@ Welcome to the Movie Recommendation System! This project provides personalized m
 - **Similarity Calculation:** Uses cosine similarity to find and recommend movies similar to a given title.
 - **Easy to Use:** Simple function call to get recommendations.
 
-## 📋 Table of Contents
+## 📊 Data Sources
+TMDB 5000 Credits Dataset: Contains information about movie credits.
+TMDB 5000 Movies Dataset: Contains metadata for 5000 movies.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 📦 Installation
-
-### Prerequisites
-
-Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
-
-### Clone the Repository
-
-```sh
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-your-repository-name/
-│
-├── movie_recommendation.py  # Main script
-├── README.md                # Project documentation
-├── tmdb_5000_credits.csv    # Movie credits data
-├── tmdb_5000_movies.csv     # Movie metadata
-│
-└── requirements.txt         # List of dependencies
