@@ -14,6 +14,12 @@ Welcome to the Movie Recommendation System! This project provides personalized m
 
 ## 📊 Data Sources
 TMDB 5000 Credits Dataset: Contains information about movie credits.
-TMDB 5000 Movies Dataset: Contains metad![image](https://github.com/Aayu-1011/Movie-Recommendation/assets/134579511/57b6fe6f-3b43-4aca-ad01-4e0f17c082a4)
-ata for 5000 movies.
+TMDB 5000 Movies Dataset: Contains metadata for 5000 movies.
+
+This is my raw data which is i used for usefull data extraction.
+![image](https://github.com/Aayu-1011/Movie-Recommendation/assets/134579511/57b6fe6f-3b43-4aca-ad01-4e0f17c082a4)
+
+After **text processing**
+![Screenshot 2024-06-08 151640](https://github.com/Aayu-1011/Movie-Recommendation/assets/134579511/0ffb2a60-ccb7-40b9-a7f1-0128751a65fd)
+
 
